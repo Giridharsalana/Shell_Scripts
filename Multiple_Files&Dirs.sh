@@ -10,5 +10,5 @@
 # Description : This Small and simple script used to create multiple files ending 
 
 
-touch Giri_{1...5} # This line of code will create Giri_1,Giri_2...Giri_5 files.
-mkdir Giri_{1...5} # This line of code will create Giri_1,Giri_2...Giri_5 Directories.
+touch Giri_{1...10} # This line of code will create Giri_1,Giri_2...Giri_10 files.
+mkdir Giri_{1...10} # This line of code will create Giri_1,Giri_2...Giri_10 Directories.
